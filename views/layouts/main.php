@@ -63,7 +63,7 @@
             <div class="span12">
                 <div class="navbar navbar_">
                     <div class="container">
-                        <h1 class="brand brand_"><a href="index.html"><img alt="" src="../..//style/img/logo.png"> </a></h1>
+                        <h1 class="brand brand_"><a href="index.html"><img alt="" src="../../style/img/logo.png"> </a></h1>
                         <a class="btn btn-navbar btn-navbar_" data-toggle="collapse" data-target=".nav-collapse_">Menu <span class="icon-bar"></span> </a>
                         <div class="nav-collapse nav-collapse_  collapse">
                             <?php
@@ -98,11 +98,11 @@
                 <!-- slider -->
                 <div class="flexslider">
                     <ul class="slides">
-                        <li> <img src="../..//style/img/slide-1.jpg" alt="" > </li>
-                        <li> <img src="../..//style/img/slide-2.jpg" alt="" > </li>
-                        <li> <img src="../..//style/img/slide-3.jpg" alt="" > </li>
-                        <li> <img src="../..//style/img/slide-4.jpg" alt="" > </li>
-                        <li> <img src="../..//style/img/slide-5.jpg" alt="" > </li>
+                        <li> <img src="../../style/img/slide-1.jpg" alt="" > </li>
+                        <li> <img src="../../style/img/slide-2.jpg" alt="" > </li>
+                        <li> <img src="../../style/img/slide-3.jpg" alt="" > </li>
+                        <li> <img src="../../style/img/slide-4.jpg" alt="" > </li>
+                        <li> <img src="../../style/img/slide-5.jpg" alt="" > </li>
                     </ul>
                 </div>
                 <span id="responsiveFlag"></span>
