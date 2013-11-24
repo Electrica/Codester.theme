@@ -137,6 +137,6 @@
         <div class="privacy pull-left">&copy; 2013 | <a href="#">Electrica : Типо дизайнер</a> | <a href="#" target="_blank">CUBE</a></div>
     </div>
 </footer>
-<script type="text/javascript" src="../..//style/js/bootstrap.js"></script>
+<script type="text/javascript" src="../../style/js/bootstrap.js"></script>
 </body>
 </html>
