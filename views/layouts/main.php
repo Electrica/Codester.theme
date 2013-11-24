@@ -10,19 +10,19 @@
     <meta name="description" content="Codester is a free responsive Bootstrap template by Dzyngiri">
     <meta name="keywords" content="free, template, bootstrap, responsive">
     <meta name="author" content="Inbetwin Networks">
-    <link rel="stylesheet" href="../..//style/css/bootstrap.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="../..//style/css/responsive.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="../..//style/css/style.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="../..//style/css/touchTouch.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="../..//style/css/kwicks-slider.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="../../style/css/bootstrap.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="../../style/css/responsive.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="../../style/css/style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="../../style/css/touchTouch.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="../../style/css/kwicks-slider.css" type="text/css" media="screen">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
-    <script type="text/javascript" src="../..//style/js/jquery.js"></script>
-    <script type="text/javascript" src="../..//style/js/superfish.js"></script>
-    <script type="text/javascript" src="../..//style/js/jquery.flexslider-min.js"></script>
-    <script type="text/javascript" src="../..//style/js/jquery.kwicks-1.5.1.js"></script>
-    <script type="text/javascript" src="../..//style/js/jquery.easing.1.3.js"></script>
-    <script type="text/javascript" src="../..//style/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="../..//style/js/touchTouch.jquery.js"></script>
+    <script type="text/javascript" src="../../style/js/jquery.js"></script>
+    <script type="text/javascript" src="../../style/js/superfish.js"></script>
+    <script type="text/javascript" src="../../style/js/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="../../style/js/jquery.kwicks-1.5.1.js"></script>
+    <script type="text/javascript" src="../../style/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="../../style/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="../../style/js/touchTouch.jquery.js"></script>
     <script type="text/javascript">if($(window).width()>1024){document.write("<"+"script src='themes/main_theme/style/js/jquery.preloader.js'></"+"script>");}	</script>
 
     <script>
@@ -45,8 +45,8 @@
     <!--<![endif]-->
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <link rel="stylesheet" href="../..//style/css/docs.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="../..//style/css/ie.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="../../style/css/docs.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="../../style/css/ie.css" type="text/css" media="screen">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
     <![endif]-->
