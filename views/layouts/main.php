@@ -10,20 +10,19 @@
     <meta name="description" content="Codester is a free responsive Bootstrap template by Dzyngiri">
     <meta name="keywords" content="free, template, bootstrap, responsive">
     <meta name="author" content="Inbetwin Networks">
-    <link rel="stylesheet" href="../../style/css/bootstrap.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="../../style/css/responsive.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="../../style/css/style.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="../../style/css/touchTouch.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="../../style/css/kwicks-slider.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/themes/codester.theme/style/css/bootstrap.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/themes/codester.theme/style/css/responsive.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/themes/codester.theme/themes/codester.theme/style/css/touchTouch.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/themes/codester.theme/style/css/kwicks-slider.css" type="text/css" media="screen">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
-    <script type="text/javascript" src="../../style/js/jquery.js"></script>
-    <script type="text/javascript" src="../../style/js/superfish.js"></script>
-    <script type="text/javascript" src="../../style/js/jquery.flexslider-min.js"></script>
-    <script type="text/javascript" src="../../style/js/jquery.kwicks-1.5.1.js"></script>
-    <script type="text/javascript" src="../../style/js/jquery.easing.1.3.js"></script>
-    <script type="text/javascript" src="../../style/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="../../style/js/touchTouch.jquery.js"></script>
-    <script type="text/javascript">if($(window).width()>1024){document.write("<"+"script src='themes/main_theme/style/js/jquery.preloader.js'></"+"script>");}	</script>
+    <script type="text/javascript" src="/themes/codester.theme/style/js/jquery.js"></script>
+    <script type="text/javascript" src="/themes/codester.theme/style/js/superfish.js"></script>
+    <script type="text/javascript" src="/themes/codester.theme/style/js/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="/themes/codester.theme/style/js/jquery.kwicks-1.5.1.js"></script>
+    <script type="text/javascript" src="/themes/codester.theme/style/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="/themes/codester.theme/style/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/themes/codester.theme/style/js/touchTouch.jquery.js"></script>
+    <script type="text/javascript">if($(window).width()>1024){document.write("<"+"script src='/themes/codester.theme/style/js/jquery.preloader.js'></"+"script>");}	</script>
 
     <script>
         jQuery(window).load(function() {
@@ -45,8 +44,8 @@
     <!--<![endif]-->
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <link rel="stylesheet" href="../../style/css/docs.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="../../style/css/ie.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/themes/codester.theme/style/css/docs.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/themes/codester.theme/style/css/ie.css" type="text/css" media="screen">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
     <![endif]-->
@@ -63,7 +62,7 @@
             <div class="span12">
                 <div class="navbar navbar_">
                     <div class="container">
-                        <h1 class="brand brand_"><a href="index.html"><img alt="" src="../../style/img/logo.png"> </a></h1>
+                        <h1 class="brand brand_"><a href="/"><img alt="" src="/themes/codester.theme/style/img/logo.png"> </a></h1>
                         <a class="btn btn-navbar btn-navbar_" data-toggle="collapse" data-target=".nav-collapse_">Menu <span class="icon-bar"></span> </a>
                         <div class="nav-collapse nav-collapse_  collapse">
                             <?php
@@ -98,11 +97,11 @@
                 <!-- slider -->
                 <div class="flexslider">
                     <ul class="slides">
-                        <li> <img src="../../style/img/slide-1.jpg" alt="" > </li>
-                        <li> <img src="../../style/img/slide-2.jpg" alt="" > </li>
-                        <li> <img src="../../style/img/slide-3.jpg" alt="" > </li>
-                        <li> <img src="../../style/img/slide-4.jpg" alt="" > </li>
-                        <li> <img src="../../style/img/slide-5.jpg" alt="" > </li>
+                        <li> <img src="/themes/codester.theme/style/img/slide-1.jpg" alt="" > </li>
+                        <li> <img src="/themes/codester.theme/style/img/slide-2.jpg" alt="" > </li>
+                        <li> <img src="/themes/codester.theme/style/img/slide-3.jpg" alt="" > </li>
+                        <li> <img src="/themes/codester.theme/style/img/slide-4.jpg" alt="" > </li>
+                        <li> <img src="/themes/codester.theme/style/img/slide-5.jpg" alt="" > </li>
                     </ul>
                 </div>
                 <span id="responsiveFlag"></span>
@@ -137,6 +136,6 @@
         <div class="privacy pull-left">&copy; 2013 | <a href="#">Electrica : Типо дизайнер</a> | <a href="#" target="_blank">CUBE</a></div>
     </div>
 </footer>
-<script type="text/javascript" src="../../style/js/bootstrap.js"></script>
+<script type="text/javascript" src="/themes/codester.theme/style/js/bootstrap.js"></script>
 </body>
 </html>
